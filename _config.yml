@@ -1,11 +1,11 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
 author: 
-  name: 闫肃
+  name: maomu
   email: yansu0711@gmail.com
   link: http://yansu.org
   enlink: http://en.yansu.org
-title: 闫肃的博客 
+title: maomu
 locals:
   tags: 标签
   about: 关于
