@@ -3,8 +3,8 @@ paginate: 10
 author: 
   name: maomu
   email: yansu0711@gmail.com
-  link: http://yansu.org
-  enlink: http://en.yansu.org
+  link: http://maomu.github.io
+  enlink: http://maomu.github.io
 title: maomu
 locals:
   tags: 标签
