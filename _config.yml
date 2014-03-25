@@ -1,15 +1,15 @@
 markdown: rdiscount
 pygments: true
 plugins: ./_plugins
-paginate: 8
+paginate: 5
 
 safe: false
 
 #站点基础配置
 title: 苏民
 subTitle: 不会画画的PM不是好的小说家
-description: 这是 PIZn 的又一个博客，它是基于 Jekyll 搭建起来的。在这里，不仅仅是用来快速记录工作，学习，生活的一点一滴的地方，更是 PIZn 对 Jekyll 的学习和使用的一次有意义的实践。
-url: http://localhost:4000
+description: 不会画画的PM不是好的小说家
+url: http://sumin.org/
 feed: /atom.xml
 
 #菜单配置
@@ -27,12 +27,8 @@ nav:
     icon: icon-envelope-alt
     class: none
   - text: 联系我
-    url: http://www.zhanxin.info/contact.html
+    url: /contact.html
     icon: icon-heart
-    class: none
-  - text: 博客源代码
-    url: https://github.com/pizn/iLotus
-    icon: icon-github
     class: none
 
 page:
@@ -47,4 +43,4 @@ page:
     last: false
 
 author:
-  name: PIZn
+  name: 苏民
