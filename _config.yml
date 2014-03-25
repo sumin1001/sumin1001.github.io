@@ -33,7 +33,7 @@ nav:
     class: none
 
 page:
-  - text: 文章分类
+  - text: 所有文章
     url: /archives.html
     last: true
   - text: 友情链接
