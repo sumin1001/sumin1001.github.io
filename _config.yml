@@ -25,11 +25,11 @@ nav:
     class: none
   - text: 小说
     url: /novels.html
-    icon: icon-envelope-alt
+    icon: icon-heart
     class: none
   - text: 联系
     url: /contact.html
-    icon: icon-heart
+    icon: icon-envelope-alt
     class: none
 
 page:
