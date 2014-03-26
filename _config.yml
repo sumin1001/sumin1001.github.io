@@ -8,8 +8,8 @@ safe: false
 
 #站点基础配置
 title: 苏民
-subTitle: 不会画画的PM不是好的小说家
-description: 不会画画的PM不是好的小说家
+subTitle: 不会画画的PM不是好作家
+description: 不会画画的PM不是好作家
 url: http://sumin.org
 feed: /atom.xml
 
