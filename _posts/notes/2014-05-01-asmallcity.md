@@ -1,7 +1,7 @@
 ---
 layout: note
 title: 一座深蓝色的狭长小城
-excerpt: 书评
+excerpt: 随笔
 category: notes
 tags: [draw]
 ---
