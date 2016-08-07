@@ -1,4 +1,3 @@
-
 ---
 layout: note
 title: 关于通过图灵测试的标准
