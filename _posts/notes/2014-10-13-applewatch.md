@@ -1,6 +1,6 @@
 ---
 layout: note
-title: 基于场景的appwatch功能分析
+title: 基于场景的apple wathch 功能分析
 excerpt: pm
 category: notes
 tags: [pm]
